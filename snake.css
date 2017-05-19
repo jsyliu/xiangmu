@@ -1,0 +1,26 @@
+#sence{
+	width: 600px;
+	height: 600px;
+	background: black;
+	border: 1px solid black;
+}
+.gezi{
+	width: 29px;
+	height: 29px;
+	background: #fff;
+	margin-right: 1px;
+	margin-bottom: 1px;
+	float: left;
+}
+.she{
+	background: green;
+}
+.shetou{
+	background: red;
+}
+.shewei{
+	background: blue;
+}
+.shiwu{
+	background: orange;
+}
